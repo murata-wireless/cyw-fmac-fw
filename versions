@@ -1,0 +1,60 @@
+Chip: 43012
+File: firmware/brcmfmac43012-sdio.bin
+Version: 13.10.271.227
+
+Chip: 43340
+File: firmware/brcmfmac43340-sdio.bin
+Version: 6.10.190.78
+
+Chip: 43362
+File: firmware/brcmfmac43362-sdio.bin
+Version: 5.90.254
+
+Chip: 4339
+File: firmware/brcmfmac4339-sdio.bin
+Version: 6.37.39.113
+
+Chip: 43430
+File: firmware/brcmfmac43430-sdio.bin
+Version: 7.45.98.94
+
+Chip: 43455
+File: firmware/brcmfmac43455-sdio.bin
+Version: 7.45.198
+
+Chip: 4354
+File: firmware/brcmfmac4354-sdio.bin
+Version: 7.35.349.86
+
+Chip: 4356
+File: firmware/brcmfmac4356-pcie.bin
+Version: 7.35.180.197
+
+Chip: 4356
+File: firmware/brcmfmac4356-sdio.bin
+Version: 7.35.349.86
+
+Chip: 43570
+File: firmware/brcmfmac43570-pcie.bin
+Version: 7.124.7
+
+Chip: 4359
+File: firmware/brcmfmac4359-pcie.bin
+Version: 9.40.124
+
+Chip: 4359
+File: firmware/brcmfmac4359-sdio.bin
+Version: 9.40.123
+
+Chip: 4373
+File: firmware/brcmfmac4373-sdio.bin
+Version: 13.10.246.210
+
+Chip: 4373
+File: firmware/brcmfmac4373-usb.bin
+Version: 13.10.246.210
+
+Chip: 
+File: firmware/brcmfmac89459-pcie.bin
+Version: 13.35.130.5
+
