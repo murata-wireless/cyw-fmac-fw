@@ -34,10 +34,6 @@ Chip: 4356
 File: firmware/brcmfmac4356-sdio.bin
 Version: 7.35.349.87
 
-Chip: 43570
-File: firmware/brcmfmac43570-pcie.bin
-Version: 7.124.10
-
 Chip: 4359
 File: firmware/brcmfmac4359-pcie.bin
 Version: 9.40.130
@@ -50,15 +46,6 @@ Chip: 4373
 File: firmware/brcmfmac4373-sdio.bin
 Version: 13.10.246.224
 
-Chip: 4373
-File: firmware/brcmfmac4373-usb.bin
-Version: 13.10.246.224
-
 Chip: 
 File: firmware/brcmfmac54591-pcie.bin
 Version: 13.35.163
-
-Chip: 
-File: firmware/brcmfmac89459-pcie.bin
-Version: 13.35.130.5
-
