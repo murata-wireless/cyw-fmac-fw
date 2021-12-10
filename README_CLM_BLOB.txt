@@ -19,8 +19,10 @@ The following table lists out the "md5sum" for all the CLM_BLOB files.
 | cyfmac43455-sdio.1HK.clm_blob	| 4aafba3e50ac9756aebcb89b81979023 |	 No	|
 | cyfmac43455-sdio.1LC.clm_blob	| 4aafba3e50ac9756aebcb89b81979023 |	 No	|
 | cyfmac4354-sdio.1BB.clm_blob	| 39404def8b34d793bd8aebf86fd9ede7 |	 No	|
-| cyfmac4356-sdio.1CX.clm_blob	| f8611ec4459ebadf99bb999e5903df12 |	 No	|
-| cyfmac4359-sdio.clm_blob	| 9fc5b48fd08e593e0339b2c0450e1337 |	 No	|
-| cyfmac4373-sdio.clm_blob	| 05dea99d908cb7a1cb053d4ff2ad87be |	 No	|
-| cyfmac54591-pcie.clm_blob	| 1a9db6fe74888d8e5be82d5747b6de6c |	 No	|
+| cyfmac4359-sdio.1WZ.clm_blob	| 9fc5b48fd08e593e0339b2c0450e1337 |	 No	|
+| cyfmac4373-sdio.2AE.clm_blob	| 8d3936971b90352a245914c4dc24c89c |	 No	|
+| cyfmac4373-sdio.2BC.clm_blob	| 8d3936971b90352a245914c4dc24c89c |	 No	|
+| cyfmac43439-sdio.1YN.clm_blob	| 47fa101aac57c643a612754b6a05537a |	 No	|
+| cyfmac4356-pcie.1CX.clm_blob	| f8611ec4459ebadf99bb999e5903df12 |	 No	|
+| cyfmac54591-pcie.1XA.clm_blob	| 1a9db6fe74888d8e5be82d5747b6de6c |	 Yes	|
 ---------------------------------------------------------------------------------
