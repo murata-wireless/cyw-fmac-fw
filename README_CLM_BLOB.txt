@@ -25,4 +25,5 @@ The following table lists out the "md5sum" for all the CLM_BLOB files.
 | cyfmac43439-sdio.1YN.clm_blob	| 47fa101aac57c643a612754b6a05537a |	 No	|
 | cyfmac4356-pcie.1CX.clm_blob	| f8611ec4459ebadf99bb999e5903df12 |	 No	|
 | cyfmac54591-pcie.1XA.clm_blob	| 0eff4b59e0ffc5f1babc865bd05897c0 |	 Yes	|
+| cyfmac54591-sdio.2BZ.clm_blob	| 0eff4b59e0ffc5f1babc865bd05897c0 |	 Yes	|
 ---------------------------------------------------------------------------------
