@@ -9,25 +9,25 @@ The following table lists out the "version" for all the FIRMWARE files.
 ------------------------------------------
 |   File Name         	  |    version    |
 |-------------------------|---------------|
-| cyfmac43012-sdio.bin	  | 13.10.271.294 |
+| cyfmac43012-sdio.bin	  | 13.10.271.300 |
 | cyfmac43340-sdio.bin	  | 6.10.190.91	  |
 | cyfmac43362-sdio.bin	  | 5.90.261	  |
 | cyfmac4339-sdio.bin	  | 6.37.39.131	  |
 | cyfmac43430-sdio.bin	  | 7.45.98.125	  |
-| cyfmac43439-sdio.bin	  | 7.95.55	      |
+| cyfmac43439-sdio.bin	  | 7.95.62	      |
 | cyfmac43455-sdio.bin	  | 7.45.251	  |
 | cyfmac4354-sdio.bin	  | 7.35.349.117  |
 | cyfmac4356-pcie.bin	  | 7.35.180.212  |
 | cyfmac4359-pcie.bin	  | 9.40.130	  |
 | cyfmac4359-sdio.bin	  | 9.40.129	  |
-| cyfmac4373-sdio.2BC.bin | 13.10.246.300 |
-| cyfmac4373-sdio.2AE.bin | 13.10.246.300 |
-| cyfmac4373-usb.2BC.bin  | 13.10.246.300 |
-| cyfmac4373-usb.2AE.bin  | 13.10.246.300 |
-| cyfmac54591-sdio.bin	  | 13.35.294	  |
-| cyfmac54591-pcie.bin	  | 13.35.294	  |
-| cyfmac55572-sdio.trxse  | 18.53.180.7	  |
-| cyfmac55572-pcie.trxse  | 18.53.180.7	  |
+| cyfmac4373-sdio.2BC.bin | 13.10.246.312 |
+| cyfmac4373-sdio.2AE.bin | 13.10.246.312 |
+| cyfmac4373-usb.2BC.bin  | 13.10.246.312 |
+| cyfmac4373-usb.2AE.bin  | 13.10.246.312 |
+| cyfmac54591-sdio.bin	  | 13.35.302	  |
+| cyfmac54591-pcie.bin	  | 13.35.302	  |
+| cyfmac55572-sdio.trxse  | 18.53.212.8	  |
+| cyfmac55572-pcie.trxse  | 18.53.212.8	  |
 -------------------------------------------
 
 Note: Same firmware file (cyfmac54591-sdio.bin) is used for 2BZ. 2BZ is based out of IFX chipset 54590.
