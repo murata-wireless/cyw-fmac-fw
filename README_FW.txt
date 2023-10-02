@@ -9,23 +9,23 @@ The following table lists out the "version" for all the FIRMWARE files.
 ------------------------------------------
 |   File Name         	  |    version    |
 |-------------------------|---------------|
-| cyfmac43012-sdio.bin	  | 13.10.271.305 |
+| cyfmac43012-sdio.bin	  | 13.50.2       |
 | cyfmac43340-sdio.bin	  | 6.10.190.91	  |
 | cyfmac43362-sdio.bin	  | 5.90.261	  |
 | cyfmac4339-sdio.bin	  | 6.37.39.131	  |
 | cyfmac43430-sdio.bin	  | 7.45.98.125	  |
-| cyfmac43439-sdio.bin	  | 7.95.64	      |
-| cyfmac43455-sdio.bin	  | 7.45.251	  |
+| cyfmac43439-sdio.bin	  | 7.95.64.1     |
+| cyfmac43455-sdio.bin	  | 7.45.265	  |
 | cyfmac4354-sdio.bin	  | 7.35.349.117  |
 | cyfmac4356-pcie.bin	  | 7.35.180.212  |
 | cyfmac4359-pcie.bin	  | 9.40.130	  |
 | cyfmac4359-sdio.bin	  | 9.40.129	  |
-| cyfmac4373-sdio.2BC.bin | 13.10.246.321 |
-| cyfmac4373-sdio.2AE.bin | 13.10.246.321 |
-| cyfmac4373-usb.2BC.bin  | 13.10.246.321 |
-| cyfmac4373-usb.2AE.bin  | 13.10.246.321 |
-| cyfmac54591-sdio.bin	  | 13.35.309	  |
-| cyfmac54591-pcie.bin	  | 13.35.309	  |
+| cyfmac4373-sdio.2BC.bin | 13.51.1       |
+| cyfmac4373-sdio.2AE.bin | 13.51.1       |
+| cyfmac4373-usb.2BC.bin  | 13.51.1       |
+| cyfmac4373-usb.2AE.bin  | 13.51.1       |
+| cyfmac54591-sdio.bin	  | 13.35.309.1	  |
+| cyfmac54591-pcie.bin	  | 13.35.309.1	  |
 | cyfmac55572-sdio.trxse  | 18.53.212.15  |
 | cyfmac55572-pcie.trxse  | 18.53.212.15  |
 -------------------------------------------
