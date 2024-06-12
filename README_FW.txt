@@ -28,6 +28,7 @@ The following table lists out the "version" for all the FIRMWARE files.
 | cyfmac54591-pcie.bin	  | 13.35.327	  |
 | cyfmac55572-sdio.trxse  | 18.53.284.17  |
 | cyfmac55572-pcie.trxse  | 18.53.284.17  |
+| cyfmac43022-sdio.trxs   | 13.34.107.121 |
 -------------------------------------------
 
 Note: Same firmware file (cyfmac54591-sdio.bin) is used for 2BZ. 2BZ is based out of IFX chipset 54590.
