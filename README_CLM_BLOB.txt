@@ -7,9 +7,9 @@ The following module CLM_BLOB default files are included in this folder:
 
 The following table lists out the "md5sum" for all the CLM_BLOB files.
 ------------------------------------------------------------------------------------------
-|   File Name                 	          |		md5sum	            	     | Murata	  |
-|                                         |				                     | Regulatory |
-|				                          |               				     | Certified  |	
+|   File Name                 	          |		md5sum	             | Murata	  |
+|                                         |				     | Regulatory |
+|				          |               		     | Certified  |	
 |-----------------------------------------|----------------------------------|------------|
 | cyfmac43012-sdio.1LV.clm_blob           | 0fb69b76a77dc8d9af62eab1bca2ef69 |     Yes    |
 | cyfmac43022-sdio.2GF.STA.clm_blob       | 90cd50c20dd0844cee2f9062bafacc05 |     Yes    |
@@ -32,4 +32,8 @@ The following table lists out the "md5sum" for all the CLM_BLOB files.
 | cyfmac54591-sdio.2BZ.clm_blob	          | 0eff4b59e0ffc5f1babc865bd05897c0 |	   Yes	  |
 | cyfmac55572-sdio.2EA.clm_blob	          | 0e51f9477d3f1a43f0406424ddc0b9c5 |	   No	  |
 | cyfmac55572-pcie.2EA.clm_blob	          | 22a59428cac2011e466c04fa08170ee9 |	   No	  |
+| cyfmac55572-pcie.clm_blob_APIndoor      | d3bf7bebd74745339c336dd4b81e8ef5 |     Yes    |
+| cyfmac55572-pcie.clm_blob_APOutdoor     | 7b9e3e7b38788b689dbe3d836b47ed89 |     Yes    |
+| cyfmac55572-pcie.clm_blob_STAIndoor     | 29fb4b4f5c210cb5cafc49753445bf45 |     Yes    |
+| cyfmac55572-pcie.clm_blob_STAOutdoor    | d9e29c11ee83459933b6f753c88fa132 |     Yes    |
 -------------------------------------------------------------------------------------------
