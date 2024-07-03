@@ -36,4 +36,8 @@ The following table lists out the "md5sum" for all the CLM_BLOB files.
 | cyfmac55572-pcie.2EA.clm_blob_APOutdoor     | 7b9e3e7b38788b689dbe3d836b47ed89 |     Yes    |
 | cyfmac55572-pcie.2EA.clm_blob_STAIndoor     | 29fb4b4f5c210cb5cafc49753445bf45 |     Yes    |
 | cyfmac55572-pcie.2EA.clm_blob_STAOutdoor    | d9e29c11ee83459933b6f753c88fa132 |     Yes    |
+| cyfmac55572-sdio.2EA.clm_blob_APIndoor      | d3bf7bebd74745339c336dd4b81e8ef5 |     Yes    |
+| cyfmac55572-sdio.2EA.clm_blob_APOutdoor     | 7b9e3e7b38788b689dbe3d836b47ed89 |     Yes    |
+| cyfmac55572-sdio.2EA.clm_blob_STAIndoor     | 29fb4b4f5c210cb5cafc49753445bf45 |     Yes    |
+| cyfmac55572-sdio.2EA.clm_blob_STAOutdoor    | d9e29c11ee83459933b6f753c88fa132 |     Yes    |
 -----------------------------------------------------------------------------------------------
