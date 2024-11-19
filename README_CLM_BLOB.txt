@@ -3,6 +3,8 @@ THE FOLLOWING NOTES APPLY ONCE THE YOCTO LINUX IMAGE IS BUILT AND ROOTFS IS POPU
 Use "murata-master" sub-folder for module-specific CLM_BLOB file (CLM_BLOB filename includes Murata module designation). 
 Note that the FMAC driver loads a specific NVRAM filename when coming up: "cyfmac"+<CYW number>+<-sdio or -pcie>+".clm_blob"
 This means that for any Murata modules which share the same chipset, we can only have one CLM_BLOB file present in the default folder: "/lib/firmware/cypress".
+For example, 2EA and 2EC share the same CLM_Blob file.
+
 The following module CLM_BLOB default files are included in this folder: 
 
 The following table lists out the "md5sum" for all the CLM_BLOB files.
