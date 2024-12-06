@@ -26,6 +26,7 @@ The following table lists out the "version" for all the FIRMWARE files.
 | cyfmac4373-usb.2AE.bin  | 13.10.246.334 |
 | cyfmac54591-sdio.bin	  | 13.35.327	  |
 | cyfmac54591-pcie.bin	  | 13.35.327	  |
+| cyfmac55500-sdio.trxse  | 28.10.387.10  |
 | cyfmac55572-sdio.trxse  | 18.53.284.17  |
 | cyfmac55572-pcie.trxse  | 18.53.284.17  |
 | cyfmac43022-sdio.trxs   | 13.34.107.121 |
