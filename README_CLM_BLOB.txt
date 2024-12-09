@@ -35,12 +35,12 @@ The following table lists out the "md5sum" for all the CLM_BLOB files.
 | cyfmac55500-sdio.2FY.clm_blob               | 3d7f1b631c7428fbfc5c8545076ec5a2 |     Yes    |
 | cyfmac55572-sdio.2EA.clm_blob	              | 0e51f9477d3f1a43f0406424ddc0b9c5 |     No     |
 | cyfmac55572-pcie.2EA.clm_blob	              | 22a59428cac2011e466c04fa08170ee9 |     No     |
-| cyfmac55572-pcie.2EA.clm_blob_APIndoor      | d3bf7bebd74745339c336dd4b81e8ef5 |     Yes    |
-| cyfmac55572-pcie.2EA.clm_blob_APOutdoor     | 7b9e3e7b38788b689dbe3d836b47ed89 |     Yes    |
-| cyfmac55572-pcie.2EA.clm_blob_STAIndoor     | 29fb4b4f5c210cb5cafc49753445bf45 |     Yes    |
-| cyfmac55572-pcie.2EA.clm_blob_STAOutdoor    | d9e29c11ee83459933b6f753c88fa132 |     Yes    |
-| cyfmac55572-sdio.2EA.clm_blob_APIndoor      | d3bf7bebd74745339c336dd4b81e8ef5 |     Yes    |
-| cyfmac55572-sdio.2EA.clm_blob_APOutdoor     | 7b9e3e7b38788b689dbe3d836b47ed89 |     Yes    |
-| cyfmac55572-sdio.2EA.clm_blob_STAIndoor     | 29fb4b4f5c210cb5cafc49753445bf45 |     Yes    |
-| cyfmac55572-sdio.2EA.clm_blob_STAOutdoor    | d9e29c11ee83459933b6f753c88fa132 |     Yes    |
+| cyfmac55572-pcie.2EA.clm_blob_APIndoor      | 4eb6b49a24580d18ec011942f7b5a900 |     Yes    |
+| cyfmac55572-pcie.2EA.clm_blob_APOutdoor     | 873855eb794413238528d46c0bea96ae |     Yes    |
+| cyfmac55572-pcie.2EA.clm_blob_STAIndoor     | 469d3127e86d040ac7f82d42233bfff2 |     Yes    |
+| cyfmac55572-pcie.2EA.clm_blob_STAOutdoor    | 7e004696f1d76827ae20bcb200d54aa1 |     Yes    |
+| cyfmac55572-sdio.2EA.clm_blob_APIndoor      | 4eb6b49a24580d18ec011942f7b5a900 |     Yes    |
+| cyfmac55572-sdio.2EA.clm_blob_APOutdoor     | 873855eb794413238528d46c0bea96ae |     Yes    |
+| cyfmac55572-sdio.2EA.clm_blob_STAIndoor     | 469d3127e86d040ac7f82d42233bfff2 |     Yes    |
+| cyfmac55572-sdio.2EA.clm_blob_STAOutdoor    | 7e004696f1d76827ae20bcb200d54aa1 |     Yes    |
 -----------------------------------------------------------------------------------------------
