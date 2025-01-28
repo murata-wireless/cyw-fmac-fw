@@ -14,10 +14,10 @@ The following table lists out the "md5sum" for all the CLM_BLOB files.
 |				              |                                  | Certified  |	
 |---------------------------------------------|----------------------------------|------------|
 | cyfmac43012-sdio.1LV.clm_blob               | 0fb69b76a77dc8d9af62eab1bca2ef69 |     Yes    |
-| cyfmac43022-sdio.2GF.STA.clm_blob           | 90cd50c20dd0844cee2f9062bafacc05 |     Yes    |
-| cyfmac43022-sdio.2GF.OutdoorSTA.clm_blob    | 955fc84c538801ce2bdc24e0b68efbeb |     Yes    |
-| cyfmac43022-sdio.2GF.IndoorAP.clm_blob      | 2ebc1eb7cbebc63abcd3f981a375676e |     Yes    |
-| cyfmac43022-sdio.2GF.OutdoorAP.clm_blob     | fa8f29a58698d8a9e8f40c441c259601 |     Yes    |
+| cyfmac43022-sdio.2GF.IndoorSTA.clm_blob     | 95afd53de635678a997f39b3e897d192 |     Yes    |
+| cyfmac43022-sdio.2GF.OutdoorSTA.clm_blob    | fda7759da209942a3a9d0b6c27124d72 |     Yes    |
+| cyfmac43022-sdio.2GF.IndoorAP.clm_blob      | b0d1d7cddcb32c4f9831a77b43fafe9f |     Yes    |
+| cyfmac43022-sdio.2GF.OutdoorAP.clm_blob     | 8269c9fa74406876083b8086dd8e7b00 |     Yes    |
 | cyfmac43455-sdio.1MW.clm_blob               | dfb5979f56bc869302417a0df9798188 |     Yes    |
 | cyfmac43430-sdio.1DX.clm_blob               | 966becd509a2fc8f30f27fa0dab4673e |     Yes    |
 | cyfmac43430-sdio.1FX.clm_blob               | 966becd509a2fc8f30f27fa0dab4673e |     Yes    |
