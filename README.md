@@ -8,6 +8,7 @@ Place the downloaded production FW file in "/lib/firmware/cypress" folder before
 the driver. Refer to the table below for the firmware files.
 
 1LV (CYW43012): 
+[Kraken](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.110-2025_0602/firmware/cyfmac43012-sdio.bin) |
 [Jaculus](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.97-2024_1115/firmware/cyfmac43012-sdio.bin) | 
 [Indrik](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.15.58-2024_0514/firmware/cyfmac43012-sdio.bin) |
 [Hedorah](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.15.58-2023_1128/firmware/cyfmac43012-sdio.bin) |
@@ -19,10 +20,12 @@ the driver. Refer to the table below for the firmware files.
 [Baragon](https://community.infineon.com/t5/Wi-Fi-Bluetooth-for-Linux/Cypress-Linux-WiFi-Driver-Release-FMAC-2021-05-27/td-p/277394)
 
 2GF (CYW43022):
+[Kraken](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.110-2025_0602/firmware/cyfmac43022-sdio.trxs) |
 [Jaculus](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.97-2024_1115/firmware/cyfmac43022-sdio.trxs) | 
 [Indrik](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.15.58-2024_0514/firmware/cyfmac43022-sdio.trxs)
 
 1DX/1FX (CYW43430):
+[Kraken](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.10.9-2022_0909/firmware/cyfmac43430-sdio.bin) |
 [Jaculus](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.10.9-2022_0909/firmware/cyfmac43430-sdio.bin) | 
 [Indrik](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.10.9-2022_0909/firmware/cyfmac43430-sdio.bin) |
 [Hedorah](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.10.9-2022_0909/firmware/cyfmac43430-sdio.bin) |
@@ -34,6 +37,7 @@ the driver. Refer to the table below for the firmware files.
 [Baragon](https://community.infineon.com/t5/Wi-Fi-Bluetooth-for-Linux/Cypress-Linux-WiFi-Driver-Release-FMAC-2021-05-27/td-p/277394)
 
 1YN (CYW43439):
+[Kraken](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.110-2025_0602/firmware/cyfmac43439-sdio.bin) |
 [Jaculus](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.97-2024_1115/firmware/cyfmac43439-sdio.bin) | 
 [Indrik](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.15.58-2024_0514/firmware/cyfmac43439-sdio.bin) |
 [Hedorah](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.15.58-2023_1128/firmware/cyfmac43439-sdio.bin) |
@@ -45,6 +49,7 @@ the driver. Refer to the table below for the firmware files.
 [Baragon](https://community.infineon.com/t5/Wi-Fi-Bluetooth-for-Linux/Cypress-Linux-WiFi-Driver-Release-FMAC-2021-05-27/td-p/277394)
 
 1MW (CYW43455):
+[Kraken](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.110-2025_0602/firmware/cyfmac43455-sdio.bin) |
 [Jaculus](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.97-2024_1115/firmware/cyfmac43455-sdio.bin) | 
 [Indrik](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.15.58-2023_0901/firmware/cyfmac43455-sdio.bin) |
 [Hedorah](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.15.58-2023_0901/firmware/cyfmac43455-sdio.bin) |
@@ -56,6 +61,7 @@ the driver. Refer to the table below for the firmware files.
 [Baragon](https://community.infineon.com/t5/Wi-Fi-Bluetooth-for-Linux/Cypress-Linux-WiFi-Driver-Release-FMAC-2021-05-27/td-p/277394)
 
 2AE-SDIO (CYW4373E):
+[Kraken](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.110-2025_0602/firmware/cyfmac4373-sdio.industrial.bin) |
 [Jaculus](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.97-2024_1115/firmware/cyfmac4373-sdio.industrial.bin) | 
 [Indrik](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.15.58-2024_0514/firmware/cyfmac4373-sdio.industrial.bin) |
 [Hedorah](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.15.58-2023_1128/firmware/cyfmac4373-sdio.industrial.bin) |
@@ -67,6 +73,7 @@ the driver. Refer to the table below for the firmware files.
 [Baragon](https://community.infineon.com/t5/Wi-Fi-Bluetooth-for-Linux/Cypress-Linux-WiFi-Driver-Release-FMAC-2021-05-27/td-p/277394)
 
 2BC-SDIO (CYW4373):
+[Kraken](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.110-2025_0602/firmware/cyfmac4373-sdio.bin) |
 [Jaculus](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.97-2024_1115/firmware/cyfmac4373-sdio.bin) | 
 [Indrik](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.15.58-2024_0514/firmware/cyfmac4373-sdio.bin) |
 [Hedorah](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.15.58-2023_1128/firmware/cyfmac4373-sdio.bin) |
@@ -77,6 +84,7 @@ the driver. Refer to the table below for the firmware files.
 [Cynder](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.10.9-2021_1020/firmware/cyfmac4373-sdio.bin)
 
 2AE-USB (CYW4373E):
+[Kraken](https://github.com/murata-wireless/cyw-fmac-fw/blob/kraken/cyfmac4373-usb.2AE.bin) |
 [Jaculus](https://github.com/murata-wireless/cyw-fmac-fw/blob/jaculus/cyfmac4373-usb.2AE.bin) | 
 [Indrik](https://github.com/murata-wireless/cyw-fmac-fw/blob/indrik/cyfmac4373-usb.2AE.bin) |
 [Hedorah](https://github.com/murata-wireless/cyw-fmac-fw/blob/hedorah/cyfmac4373-usb.2AE.bin) |
@@ -86,6 +94,7 @@ the driver. Refer to the table below for the firmware files.
 [Drogon](https://github.com/murata-wireless/cyw-fmac-fw/blob/drogon/cyfmac4373-usb.2AE.bin)
 
 2BC-USB (CYW4373):
+[Kraken](https://github.com/murata-wireless/cyw-fmac-fw/blob/kraken/cyfmac4373-usb.2BC.bin) |
 [Jaculus](https://github.com/murata-wireless/cyw-fmac-fw/blob/jaculus/cyfmac4373-usb.2BC.bin) | 
 [Indrik](https://github.com/murata-wireless/cyw-fmac-fw/blob/indrik/cyfmac4373-usb.2BC.bin) |
 [Hedorah](https://github.com/murata-wireless/cyw-fmac-fw/blob/hedorah/cyfmac4373-usb.2BC.bin) |
@@ -96,6 +105,7 @@ the driver. Refer to the table below for the firmware files.
 [Cynder](https://github.com/murata-wireless/cyw-fmac-fw/blob/cynder/cyfmac4373-usb.2BC.bin)
 
 1XA/2BA (CYW54591):
+[Kraken](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.110-2025_0602/firmware/cyfmac54591-pcie.bin) |
 [Jaculus](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.97-2024_1115/firmware/cyfmac54591-pcie.bin) | 
 [Indrik](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.15.58-2024_0514/firmware/cyfmac54591-pcie.bin) |
 [Hedorah](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.15.58-2023_1128/firmware/cyfmac54591-pcie.bin) |
@@ -107,6 +117,7 @@ the driver. Refer to the table below for the firmware files.
 [Baragon](https://community.infineon.com/t5/Wi-Fi-Bluetooth-for-Linux/Cypress-Linux-WiFi-Driver-Release-FMAC-2021-05-27/td-p/277394)
 
 2BZ (CYW54590):
+[Kraken](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.110-2025_0602/firmware/cyfmac54591-sdio.bin) |
 [Jaculus](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.97-2024_1115/firmware/cyfmac54591-sdio.bin) | 
 [Indrik](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.15.58-2024_0514/firmware/cyfmac54591-sdio.bin) |
 [Hedorah](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.15.58-2023_1128/firmware/cyfmac54591-sdio.bin) |
@@ -118,9 +129,11 @@ the driver. Refer to the table below for the firmware files.
 [Baragon](https://community.infineon.com/t5/Wi-Fi-Bluetooth-for-Linux/Cypress-Linux-WiFi-Driver-Release-FMAC-2021-05-27/td-p/277394)
 
 2FY (CYW55513):
+[Kraken](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.110-2025_0602/firmware/cyfmac55500-sdio.trxse) |
 [Jaculus](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.97-2024_1115/firmware/cyfmac55500-sdio.trxse)
 
-2EA-SDIO (CYW55573):
+2EA-PCIe (CYW55573):
+[Kraken](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.110-2025_0602/firmware/cyfmac55572-pcie.trxse) |
 [Jaculus](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.97-2024_1115/firmware/cyfmac55572-pcie.trxse) | 
 [Indrik](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.15.58-2024_0514/firmware/cyfmac55572-pcie.trxse) |
 [Hedorah](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.15.58-2023_1128/firmware/cyfmac55572-pcie.trxse) |
@@ -128,7 +141,8 @@ the driver. Refer to the table below for the firmware files.
 [Fafnir](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.15.58-2023_0222/firmware/cyfmac55572-pcie.trxse) |
 [Ebirah](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.10.9-2022_0909/firmware/cyfmac55572-pcie.trxse)
 
-2EA-PCIe (CYW55573):
+2EA-SDIO (CYW55573):
+[Kraken](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.110-2025_0602/firmware/cyfmac55572-sdio.trxse) |
 [Jaculus](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.97-2024_1115/firmware/cyfmac55572-sdio.trxse) | 
 [Indrik](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.15.58-2024_0514/firmware/cyfmac55572-sdio.trxse) |
 [Hedorah](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.15.58-2023_1128/firmware/cyfmac55572-sdio.trxse) |
