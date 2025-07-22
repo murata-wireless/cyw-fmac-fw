@@ -42,4 +42,12 @@ The following table lists out the "md5sum" for all the CLM_BLOB files.
 | cyfmac55572-sdio.2EA.clm_blob_APOutdoor     | 873855eb794413238528d46c0bea96ae |     Yes    |
 | cyfmac55572-sdio.2EA.clm_blob_STAIndoor     | 469d3127e86d040ac7f82d42233bfff2 |     Yes    |
 | cyfmac55572-sdio.2EA.clm_blob_STAOutdoor    | 7e004696f1d76827ae20bcb200d54aa1 |     Yes    |
+| cyfmac55500-sdio.2FY.APIndoor.clm_blob      | a3d681833f8da8155dc6cde826c50182 |     Yes    |
+| cyfmac55500-sdio.2FY.APOutdoor.clm_blob     | 5114e316022d89dde94a3f94334ca131 |     Yes    |
+| cyfmac55500-sdio.2FY.STAIndoor.clm_blob     | b6664e361d86a8e09b04b44e07da6ef8 |     Yes    |
+| cyfmac55500-sdio.2FY.STAOutdoor.clm_blob    | 136935f036f34bc3befc381bbb4f79d4 |     Yes    |
+| cyfmac55500-sdio.2GY.APIndoor.clm_blob      | 239394f9f823ea2901996167a258dbb0 |     Yes    |
+| cyfmac55500-sdio.2GY.APOutdoor.clm_blob     | 73dc62495bb4b5ee5a06107c283dc408 |     Yes    |
+| cyfmac55500-sdio.2GY.STAIndoor.clm_blob     | 0c7054f32fabb9df2eb012573cbde349 |     Yes    |
+| cyfmac55500-sdio.2GY.STAOutdoor.clm_blob    | 80842a030a2a29b71e5bfdf7d309a476 |     Yes    |
 -----------------------------------------------------------------------------------------------
