@@ -105,28 +105,11 @@ Cynder: https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.10.9-2021
 
 2AE-USB (CYW4373E):
 -------------------
-Longma: See note
-Kraken: See note
-Jaculus: https://github.com/murata-wireless/cyw-fmac-fw/blob/jaculus/cyfmac4373-usb.2AE.bin
-Indrik: https://github.com/murata-wireless/cyw-fmac-fw/blob/indrik/cyfmac4373-usb.2AE.bin
-Hedorah: https://github.com/murata-wireless/cyw-fmac-fw/blob/hedorah/cyfmac4373-usb.2AE.bin
-Godzilla: https://github.com/murata-wireless/cyw-fmac-fw/blob/godzilla/cyfmac4373-usb.2AE.bin
-Fafnir: https://github.com/murata-wireless/cyw-fmac-fw/blob/fafnir/cyfmac4373-usb.2AE.bin
-Ebirah: https://github.com/murata-wireless/cyw-fmac-fw/blob/ebirah/cyfmac4373-usb.2AE.bin
-Drogon: https://github.com/murata-wireless/cyw-fmac-fw/blob/drogon/cyfmac4373-usb.2AE.bin
+See note
 
 2BC-USB (CYW4373):
 ------------------
-Longma: See note
-Kraken: See note
-Jaculus: https://github.com/murata-wireless/cyw-fmac-fw/blob/jaculus/cyfmac4373-usb.2BC.bin
-Indrik: https://github.com/murata-wireless/cyw-fmac-fw/blob/indrik/cyfmac4373-usb.2BC.bin
-Hedorah: https://github.com/murata-wireless/cyw-fmac-fw/blob/hedorah/cyfmac4373-usb.2BC.bin
-Godzilla: https://github.com/murata-wireless/cyw-fmac-fw/blob/godzilla/cyfmac4373-usb.2BC.bin
-Fafnir: https://github.com/murata-wireless/cyw-fmac-fw/blob/fafnir/cyfmac4373-usb.2BC.bin
-Ebirah: https://github.com/murata-wireless/cyw-fmac-fw/blob/ebirah/cyfmac4373-usb.2BC.bin
-Drogon: https://github.com/murata-wireless/cyw-fmac-fw/blob/drogon/cyfmac4373-usb.2BC.bin
-Cynder: https://github.com/murata-wireless/cyw-fmac-fw/blob/cynder/cyfmac4373-usb.2BC.bin
+See note
 
 1XA/2BA (CYW54591):
 -------------------

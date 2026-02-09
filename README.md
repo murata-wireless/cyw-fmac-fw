@@ -91,27 +91,10 @@ the driver. Refer to the table below for the firmware files.
 [Cynder](https://github.com/Infineon/ifx-linux-firmware/blob/release-v5.10.9-2021_1020/firmware/cyfmac4373-sdio.bin)
 
 2AE-USB (CYW4373E):
-[Longma](https://github.com/murata-wireless/cyw-fmac-fw/tree/longma?tab=readme-ov-file#note) |
-[Kraken](https://github.com/murata-wireless/cyw-fmac-fw/blob/kraken/cyfmac4373-usb.2AE.bin) |
-[Jaculus](https://github.com/murata-wireless/cyw-fmac-fw/blob/jaculus/cyfmac4373-usb.2AE.bin) | 
-[Indrik](https://github.com/murata-wireless/cyw-fmac-fw/blob/indrik/cyfmac4373-usb.2AE.bin) |
-[Hedorah](https://github.com/murata-wireless/cyw-fmac-fw/blob/hedorah/cyfmac4373-usb.2AE.bin) |
-[Godzilla](https://github.com/murata-wireless/cyw-fmac-fw/blob/godzilla/cyfmac4373-usb.2AE.bin) |
-[Fafnir](https://github.com/murata-wireless/cyw-fmac-fw/blob/fafnir/cyfmac4373-usb.2AE.bin) |
-[Ebirah](https://github.com/murata-wireless/cyw-fmac-fw/blob/ebirah/cyfmac4373-usb.2AE.bin) |
-[Drogon](https://github.com/murata-wireless/cyw-fmac-fw/blob/drogon/cyfmac4373-usb.2AE.bin)
+[See Note](https://github.com/murata-wireless/cyw-fmac-fw/tree/longma?tab=readme-ov-file#note)
 
 2BC-USB (CYW4373):
-[Longma](https://github.com/murata-wireless/cyw-fmac-fw/tree/longma?tab=readme-ov-file#note) |
-[Kraken](https://github.com/murata-wireless/cyw-fmac-fw/blob/kraken/cyfmac4373-usb.2BC.bin) |
-[Jaculus](https://github.com/murata-wireless/cyw-fmac-fw/blob/jaculus/cyfmac4373-usb.2BC.bin) | 
-[Indrik](https://github.com/murata-wireless/cyw-fmac-fw/blob/indrik/cyfmac4373-usb.2BC.bin) |
-[Hedorah](https://github.com/murata-wireless/cyw-fmac-fw/blob/hedorah/cyfmac4373-usb.2BC.bin) |
-[Godzilla](https://github.com/murata-wireless/cyw-fmac-fw/blob/godzilla/cyfmac4373-usb.2BC.bin) |
-[Fafnir](https://github.com/murata-wireless/cyw-fmac-fw/blob/fafnir/cyfmac4373-usb.2BC.bin) |
-[Ebirah](https://github.com/murata-wireless/cyw-fmac-fw/blob/ebirah/cyfmac4373-usb.2BC.bin) |
-[Drogon](https://github.com/murata-wireless/cyw-fmac-fw/blob/drogon/cyfmac4373-usb.2BC.bin) |
-[Cynder](https://github.com/murata-wireless/cyw-fmac-fw/blob/cynder/cyfmac4373-usb.2BC.bin)
+[See Note](https://github.com/murata-wireless/cyw-fmac-fw/tree/longma?tab=readme-ov-file#note)
 
 1XA/2BA (CYW54591):
 [Longma](https://github.com/Infineon/ifx-linux-firmware/blob/release-v6.1.145-2026_0108/firmware/cyfmac54591-pcie.bin) |
